@@ -57,7 +57,11 @@
   </div>
 
   ---
+  <div style="display: flex; align-items: center; justify-content: center;">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXzeno&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
 
 
 
@@ -65,8 +69,8 @@
     <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/>&nbsp
     <img src="https://skillicons.dev/icons?i=electron" width="42" height="42"/>
     <img src="https://skillicons.dev/icons?i=graphql" width="42" height="42"/>&nbsp
-  -->
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KXzeno&repo=karnovah)](https://github.com/KXzeno/karnovah?theme=blue_navy&show_owner=true)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KXzeno&repo=adk)](https://github.com/KXzeno/adk?theme=blue_navy&show_owner=true)
+  -->
 
