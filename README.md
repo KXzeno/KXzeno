@@ -32,7 +32,6 @@
         <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
         <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
         <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/>
       </div>
     </div>
     <div>
