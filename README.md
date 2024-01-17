@@ -40,6 +40,7 @@
       <div>
         <img src="https://skillicons.dev/icons?i=express" width="42" height="42"/>
         <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/>
       </div>
     </div>
     <div>
