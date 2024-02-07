@@ -22,46 +22,12 @@
   - 📫 kathekontelos@gmail.com
 ---
   ### :computer: Tech Stack
-  <div style="display: grid; grid: repeat(1, 80px) / auto-flow">
-    <div>
-      Frontend
-      <div>
-        <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42"/>
-      </div>
-    </div>
-    <div>
-      Backend
-      <div>
-        <img src="https://skillicons.dev/icons?i=express" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/>
-      </div>
-    </div>
-    <div>
-      Devtools
-      <div>
-        <img src="https://skillicons.dev/icons?i=vim" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=powershell" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=latex" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=git" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=jest" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/>
-        <img src="https://skillicons.dev/icons?i=netlify" width="42" height="42"/>
-      </div>
-    </div>
-  </div>
-
+![Frontend](https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&fontFamily=Sono&lineCount=1&theme=tokyonight&gap=4&width=700&bg=%23131422&badge=%231D1E33&border=%231D1E33&titleColor=%2370A6FD&line1=react%2Creact%2C58a6ff%3BJavaScript%2Cjavascript%2CF7DF1E%3Bnextdotjs%2Cnext%2Cffffff%3Btailwindcss%2CTailwind%2C06B6D4%3Bhtml5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3B)
+![Backend](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=right&titleAlign=right&fontFamily=Sono&lineCount=1&theme=merko&gap=4&width=700&bg=%23030603&badge=%230B170B&border=%230B170B&titleColor=%23ACD300&line1=express%2Cexpress%2Cffffff%3Bnodedotjs%2Cnode%2C339933%3Bmongodb%2Cmongo%2C47A248%3Bmongoose%2Cmongoose%2C880000%3B)
+![Devtools](https://github-readme-tech-stack.vercel.app/api/cards?title=Devtools&fontFamily=Sono&lineCount=1&theme=nord&gap=4&width=700&bg=%232a313e&badge=%23343C4D&border=%23343C4D&titleColor=%2382a2c2&line1=vim%2Cvim%2C019733%3Bpowershell%2Cpwsh%2C5391FE%3Blatex%2Clatex%2C008080%3Bgit%2Cgit%2CF05032%3Bjest%2Cjest%2CC21325%3Bpostman%2Cpostman%2CFF6C37%3Bnetlify%2Cnetlify%2C00C7B7%3B)
   ---
-  <div style="display: flex; align-items: center; justify-content: center;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXzeno&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
 
 
 
