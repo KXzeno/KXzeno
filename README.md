@@ -25,7 +25,9 @@
 ![Devtools](https://github-readme-tech-stack.vercel.app/api/cards?title=Devtools&align=center&titleAlign=center&fontFamily=Sono&fontSize=18&lineCount=1&hideBg=true&showBorder=false&theme=nord&gap=4&width=810&bg=%232a313e&badge=%23343C4D&border=%23343C4D&titleColor=%2382a2c2&line1=vim%2Cvim%2C019733%3Bpowershell%2Cpwsh%2C5391FE%3Blatex%2Clatex%2C008080%3Bgit%2Cgit%2CF05032%3Bjest%2Cjest%2CC21325%3Bpostman%2Cpostman%2CFF6C37%3Bnetlify%2Cnetlify%2C00C7B7%3B)
   ---
   ---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KXzeno&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxzeno&layout=pie" alt="Top Languages" />
+</a>
   <!-- 
     <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/>&nbsp
     <img src="https://skillicons.dev/icons?i=electron" width="42" height="42"/>
