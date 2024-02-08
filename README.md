@@ -19,7 +19,7 @@
   - 🕵️ Working on a fullstack web app and a personal version of architectural design log formatting
   - 🔭 Aspiring back-end leaning fullstack developer, non-relational++ database architect, and storyteller
   - 📫 kathekontelos@gmail.com
-### <p align="center">Tech:computer:Stack</p>
+### <p align="center">Tech :computer: Stack</p>
 ![Frontend](https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&fontFamily=Sono&fontSize=18&lineCount=1&hideBg=true&showBorder=false&theme=tokyonight&gap=4&width=810&bg=%23131422&badge=%231D1E33&border=%231D1E33&titleColor=%2370A6FD&line1=react%2Creact%2C58a6ff%3BJavaScript%2Cjavascript%2CF7DF1E%3Bnextdotjs%2Cnext%2Cffffff%3Btailwindcss%2CTailwind%2C06B6D4%3Bhtml5%2Chtml%2CE34F26%3Bcss3%2Ccss%2C1572B6%3B)
 ![Backend](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&titleAlign=center&fontFamily=Sono&fontSize=18&lineCount=1&hideBg=true&showBorder=false&theme=merko&gap=4&width=810&bg=%23030603&badge=%230B170B&border=%230B170B&titleColor=%23ACD300&line1=express%2Cexpress%2Cffffff%3Bnodedotjs%2Cnode%2C339933%3Bmongodb%2Cmongo%2C47A188%3Bmongoose%2Cmongoose%2C881000%3B)
 ![Devtools](https://github-readme-tech-stack.vercel.app/api/cards?title=Devtools&align=center&titleAlign=center&fontFamily=Sono&fontSize=18&lineCount=1&hideBg=true&showBorder=false&theme=nord&gap=4&width=810&bg=%232a313e&badge=%23343C4D&border=%23343C4D&titleColor=%2382a2c2&line1=vim%2Cvim%2C019733%3Bpowershell%2Cpwsh%2C5391FE%3Blatex%2Clatex%2C008080%3Bgit%2Cgit%2CF05032%3Bjest%2Cjest%2CC21325%3Bpostman%2Cpostman%2CFF6C37%3Bnetlify%2Cnetlify%2C00C7B7%3B)
