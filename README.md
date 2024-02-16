@@ -34,11 +34,13 @@
   -->
 ---
 ---
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxzeno&layout=pie" alt="Top Languages" />
   </a>
 </p>
+-->
 <!-- 
   <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/>&nbsp
   <img src="https://skillicons.dev/icons?i=electron" width="42" height="42"/>
