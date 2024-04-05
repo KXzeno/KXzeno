@@ -17,7 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=90:0D1117,80:181A2A&height=67&section=header&text=Yo&fontColor=221C35&fontSize=70&animation=twinkling&fontAlignY=50&fontAlign=50&stroke=FFFFFF&strokeWidth=0.7&reversal=true" />
 
   - 🕵️ Working on a fullstack web app and a personal version of architectural design log formatting
-  - 🔭 Aspiring back-end leaning fullstack developer, non-relational++ database architect, and storyteller
+  - 🔭 Aspiring back-end leaning fullstack developer, rel/non-rel database architect, and fantasist-form storyteller
   - 📫 kathekontelos@gmail.com
   ---
   ### <p align="center">Tech :computer: Stack</p>
