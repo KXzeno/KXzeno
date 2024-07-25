@@ -17,9 +17,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=90:0D1117,80:181A2A&height=67&section=header&text=Yo&fontColor=221C35&fontSize=70&animation=twinkling&fontAlignY=50&fontAlign=50&stroke=FFFFFF&strokeWidth=0.7&reversal=true" />
 
   <p align="center">
-    Aspiring ⚙️ Software Engineer, 🖋️ Writer, and 🕯️ Fantasist pro tempore.<br>
-    I rose through ideas, 🕵️ not clones.<br>
-  Contact me @ 📫 <a href="mailto:kathekontelos@gmail.com">kathekontelos@gmail.com</a>
+    Aspiring ⚙️ Software Engineer, 🖋️ Writer, and a 🕯️ Fantasist pro tempore.<br>
+    Rising through ideas 🕵️ <del>not clones</del>.<br>
+  Contact @ 📫 <a href="mailto:kathekontelos@gmail.com">kathekontelos@gmail.com</a>
   </p> 
 
   ---
