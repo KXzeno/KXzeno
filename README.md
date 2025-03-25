@@ -59,6 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="junit" width=48 height=48 />
     <img src="https://skillicons.dev/icons?i=gradle" alt="gradle" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width=48 height=48 />
   </p>
   <!-- 
     <p align="center">
